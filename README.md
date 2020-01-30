@@ -1,4 +1,4 @@
-#Project to begin learning how to develop backend code in Java.
+# Project to begin learning how to develop backend code in Java.
 
 This is a maven project, for now.
 
